@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I'm Software Engineer. Creating User Interfaces with my code. Web freak. Tech enthusiast. Automation-first. Ukraїner. Gamer.
+I'm Product Software Developer. Creating User Interfaces with my code. Web freak. Tech enthusiast. Automation geek. Ukraїner. Gamer.
 
 Links:
-- [Page](https://yev-moroz.dev)
 - [LinkedIn](https://www.linkedin.com/in/yev-moroz/)
 - [Medium](https://medium.com/@yev-moroz)
 
-Based in Toronto, Canada 🇨🇦
+Based in Greater Toronto Area, Canada 🇨🇦
 Born in Kyiv, Ukraine 🇺🇦.
 
 Also feel free to check and contribute to my starter packs:
