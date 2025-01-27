@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Seasoned Software Engineer. Creating User Interfaces with my code. Web freak. Tech enthusiast. Automation geek. Ukraїner. Gamer.
+I'm Software Engineer. Creating User Interfaces with my code. Tech enthusiast. Automation freak. Ukraїner.
 
 Links:
 - [LinkedIn](https://www.linkedin.com/in/yev-moroz/)
